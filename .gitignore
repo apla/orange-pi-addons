@@ -1,0 +1,4 @@
+*.brd.lck
+*.sch.lck
+*.b#?
+*.s#?
