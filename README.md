@@ -1,7 +1,10 @@
 # Orange Pi Zero+ H5 Addons
 
+## Hacking Addon
 
-## DeviceTree
+![Orange Pi Zero Hacking Addon / Shield / Board](images/opi-zero-hacking-addon.jpg)
+
+## TODO: DeviceTree
 
 [Armbian docs for using overlays](https://docs.armbian.com/User-Guide_Allwinner_overlays/)
 
